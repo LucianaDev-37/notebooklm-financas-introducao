@@ -1,5 +1,6 @@
 # 📘 notebooklm-financas-introducao
 https://notebooklm.google.com/notebook/c8fc65a1-65b9-41a7-8e05-2b8a9b88fe1c
+O notebook foi configurado com acesso público (“qualquer pessoa com o link”), permitindo a visualização completa dos prompts testados, respostas da IA, análises críticas e fontes utilizadas.
 
 Caderno temático desenvolvido no **NotebookLM** com foco em **educação financeira introdutória**, explorando conceitos fundamentais por meio de **testes de prompts em IA generativa**, análise crítica das respostas e uso de **fontes confiáveis**.
 
